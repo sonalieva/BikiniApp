@@ -1,0 +1,142 @@
+body header .navbar .container-fluid .col-md-3 .a {
+  color: black;
+  font-weight: 600;
+}
+
+body header .container-fluid-nav {
+  position: -webkit-sticky;
+  position: sticky;
+}
+
+body header .navbar .container-fluid {
+  font-weight: 500;
+  font-size: 13px;
+}
+
+body header .nav .container-fluid .collapse .app-button > a {
+  padding: 10px 25px;
+  background-color: #0e12dd;
+}
+
+body header .navbar .container-fluid .collapse .ul > li > a:hover {
+  color: #6f95c7;
+}
+
+body header .navbar .container-fluid .collapse > ul > li > a {
+  margin: 10px;
+}
+
+body header .navbar .container-fluid .collapse > ul > li > a:hover {
+  color: #0e12dd;
+}
+
+body main #started .content {
+  margin: 0 auto;
+  text-align: center;
+  width: 1000px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+body main #about {
+  background-color: #466393;
+}
+
+body main #about .container .row .col-md-5 > a {
+  display: inline-block;
+  padding: 6px 30px 8px 30px;
+  border-radius: 50px;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  text-decoration: none;
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+body main #about .container .row .col-md-5 > a:hover {
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+body main #about .container .row .col-md-7 .row .col-md-6 > i {
+  font-weight: 400;
+  font-size: 35px;
+  font-style: normal;
+  display: inline-block;
+  text-transform: none;
+  color: #b6bdfc;
+  width: 500px;
+}
+
+body main #about .container .row {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+body main #about .container .row .col-md-5 {
+  padding-top: 35px;
+}
+
+body main #about .container .row .col-md-5 > h2 {
+  color: white;
+}
+
+body main #about .container .row .col-md-5 > p {
+  color: white;
+}
+
+body main #about .container .row .col-md-7 .row .col-md-6 > h3 {
+  color: white;
+}
+
+body main #about .container .row .col-md-7 .row .col-md-6 > p {
+  color: white;
+}
+
+body main #services {
+  background-color: #2d405f;
+}
+
+body main #services .container .row .col-md-6 {
+  background-color: white;
+  position: relative;
+}
+
+body main #services .container .row .service-content > h2::before {
+  content: "";
+  width: 55px;
+  background-color: #57667f;
+  height: 3px;
+  bottom: -15px;
+  left: 48%;
+  position: absolute;
+}
+
+body main #services .container .row .col-md-6 .service-box .service-box-icon > i {
+  background-color: white;
+  padding: 20px;
+  border: 50%;
+  color: #2d405f;
+}
+
+body main #contact .container .row .col-md-12 .col-md-6 > p {
+  color: #d42424;
+}
+
+body footer .container .row .col-md-4 > form {
+  margin-top: 30px;
+  background: #fff;
+  padding: 6px 30px;
+  position: relative;
+  border-radius: 5px;
+  text-align: left;
+  border: 1px solid #9da7fc;
+}
+
+body footer .container .row .col-md-2 ul > li > a {
+  text-decoration: none;
+}
+
+body footer .container .row .col-md-3 ul > li > a {
+  text-decoration: none;
+}
+/*# sourceMappingURL=style.css.map */
